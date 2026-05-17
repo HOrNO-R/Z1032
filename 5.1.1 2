@@ -1,5 +1,5 @@
-[CyS](salas-privadas)(bebidas)(parlantes, consola);!  Manipulo.
-[PLATA](piezas-propias)(Quilmes,Speed)(hidromasaje);!  Habito.
-[ARTE](pintura-en-aerosol)(comida)(marihuana);!  Silla.
-[INFO.](heladera,sillón,cama,mesa)(neón)(Videojuegos);!  Pantalla. 
-[TRANSPORTE](auto)(video-juegos)(VPN);!  Concreto.
+[CyS](salas-privadas)(piezas-propias)(CAMA)(HIDROMASAJE);!  Habito.
+[PLATA](bebidas)(H20-Gaseosa-Quilmes,Speed-Jugo)(heladera,mesa)(comida);!  Manipulo.
+[ARTE](pintura-en-aerosol)(plantación)(marihuana);!  SillON.
+[INFO.](parlantes.consola)(VPN)(neón)(Videojuegos);!  Pantalla. 
+[TRANSPORTE](auto)(Herramientas);!  Taller.
