@@ -1,22 +1,22 @@
 # Plan de Integridad Absoluta
 
 ## 1. Seguridad Integral (Individual)
-- **Objetivo**: Cobrar equivalencia
-- **Alcance**: Casa, Auto, Moto
+- **Objetivo**: Adquisición
+- **Alcance**: Mundial
 - **Destino**: (M)pATRIMONIO=CAPITAL
 
 ## 2. Estilismo (Estructuración)
 - **Objetivo**: Autosustentabilidad
-- **Alcance**: Objetos
-- **Destino**: ENERGÍA
+- **Alcance**: Concreto
+- **Destino**: Hogar
 
 ## 3. Transporte (Conjunto)
 - **Costo**: 260.000 USD
-- **Estado**: *ADQUIRIR*
+- **Estado**: Inconcluso
 
 ## 4. Comida (Incorporación)
-- **Objetivo**: Residir
-- **Estado**: *CONFORMAR*
+- **Objetivo**: Conformar
+- **Estado**: Inconcluso
 
 ## Principios Fundamentales
 - Integridad absoluta
