@@ -3,7 +3,7 @@
 ## 1. Seguridad Integral (Individual)
 - **Objetivo**: Cobrar equivalencia
 - **Alcance**: Casa, Auto, Moto
-- **Destino**: CAPITAL
+- **Destino**: (M)pATRIMONIO=CAPITAL
 
 ## 2. Estilismo (Estructuración)
 - **Objetivo**: Autosustentabilidad
