@@ -1,0 +1,11 @@
+{
+    "gitlens.currentLine.uncommittedChangesFormat": "✏️ ${ago}",
+    "gitlens.codeLens.recentChange.command": "gitlens.showQuickRepoHistory",
+    "gitlens.codeLens.authors.command": "gitlens.showQuickRepoHistory",
+    "gitlens.statusBar.format": "${tutu}, ${1datago}${' via '.mp}",
+    "gitlens.statusBar.alignment": "left",
+    "gitlens.statusBar.command": "gitlens.showQuickRepoHistory",
+    "gitlens.statusBar.reduceFlicker": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.keymap": "alternate"
+}
